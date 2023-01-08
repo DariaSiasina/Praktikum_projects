@@ -1,2 +1,2 @@
 # Praktikum_projects
-Analysis of mobile app user behaviour
+Study projects for Yandex.Praktikum data analysis course.
