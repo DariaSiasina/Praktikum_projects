@@ -80,3 +80,5 @@
   </tr>
   
 </table>
+<img src='https://downloader.disk.yandex.ru/preview/bed461d57177930cbd5a436c9db72b815c59fa6725a783e94a068db4f01fbc3a/63c5f069/VqNR4A2nMPzbSxwn2t4Uyvd9A0JkPK1BZXVIapgJWggnwcwVI0N_Kn17y3L3svAAfF0aWXJacc_ci9ZT-ty_8A%3D%3D?uid=0&filename=Praktikum_cert_rus.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048' width='50%'> <BR>
+<img src='https://downloader.disk.yandex.ru/preview/f8607c2b28bac5e62cc4f496253e38828a08031a847207ab39c22b8df5f37cbd/inf/4p28_gj_lOb2TYp4FlNgofYnJrZfHE3ivC63lQEvBBTXHSHg3Oq3fQJ_msETUaMeuQk-I7QM1ZJE0JKTfUJuCg%3D%3D?uid=319842906&filename=Praktikum_cert_rus2.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=319842906&tknv=v2&size=1893x865' width='50%'>
